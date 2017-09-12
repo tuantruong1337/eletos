@@ -1,2 +1,2 @@
 # eletos
-eletos integration
+eletos integration using Wordpress
